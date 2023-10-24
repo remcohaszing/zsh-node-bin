@@ -1,6 +1,6 @@
 # Zsh node-bin
 
-Recursively add `node_modules/.bin` to your `$PATH`.
+Add `node_modules/.bin` directories to your `$PATH`.
 
 ## Installation
 
