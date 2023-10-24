@@ -9,7 +9,7 @@ Recursively add `node_modules/.bin` to your `$PATH`.
 Clone the repository into your `OMZ` [custom directory](https://github.com/ohmyzsh/ohmyzsh#custom-directory).
 
 ```zsh
-git clone https://github.com/remcohaszing/zsh-node-bin.git "${$ZSH:-~/.oh-my-zsh}/custom/plugins/node-bin"
+git clone https://github.com/remcohaszing/zsh-node-bin.git "${ZSH:-~/.oh-my-zsh}/custom/plugins/node-bin"
 ```
 
 In your `.zshrc` file, add `node-bin` to the plugins array,
